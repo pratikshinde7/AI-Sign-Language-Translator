@@ -1,0 +1,5 @@
+numpy
+opencv-python
+cvzone
+tensorflow==2.13.0
+mediapipe
